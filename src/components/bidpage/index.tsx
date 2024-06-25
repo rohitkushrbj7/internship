@@ -19,7 +19,7 @@ export default function Bidpage() {
     <>
     <Box pt={10} pb={10}>
     <Box sx={{ flexGrow: 1, bgcolor:"#5E019A"}}>
-      <Grid container spacing={2} >
+      <Grid container spacing={2}>
         <Grid item xs={12} md={6} sx={{display:"flex",justifyContent:"center",alignItems:"center"}}>
           <img src="https://www.pixelstalk.net/wp-content/uploads/2016/07/A-Images-HD-Screen-Download-620x388.jpg" alt="img" />
         </Grid>
